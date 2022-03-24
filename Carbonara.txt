@@ -1,0 +1,4 @@
+* bacon (or, to be precise, "guanciale")
+* eggs
+* cheese
+* pasta
